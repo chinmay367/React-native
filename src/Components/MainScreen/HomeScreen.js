@@ -1,0 +1,26 @@
+{
+   "uvpName":"ADOBE SYSTEMS INCORPORATE",
+   "document":{
+      "lastModifiedBy":"System",
+      "lastModified":"2020-06-23T13:29:25.5484973Z",
+      "supplierAccountManager":[
+         "wipritch@microsoft.com",
+         "andrews@microsoft.com"
+      ],
+      "executiveSponsor":[
+         "wipritch@microsoft.com",
+         "andrews@microsoft.com"
+      ],
+      "documents":[
+         {
+            "documentType":"orgstructure",
+            "fileName":"supplier.pdf",
+            "lastModifiedBy":"System",
+            "lastModified":"2020-06-23T13:29:25.5484973Z"
+         }
+      ],
+      "createdBy":"System",
+      "created":"2020-06-23T13:29:25.5484973Z"
+   },
+   "documentType":"Relationship"
+}
